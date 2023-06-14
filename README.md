@@ -1,6 +1,6 @@
 # Temporal-Spatial Time Series Self-Attention for 2D & 3D Human Motion Forecasting
 
-![Project Logo](link-to-your-logo.png)
+![Project Logo](https://github.com/AndiDemon/HumMovForecasting/blob/master/figures/spatial_temporal_tssa_.eps)
 
 ## Introduction
 
